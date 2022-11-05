@@ -1,4 +1,2 @@
 # Minesweeper
-Minesweeper game in JavaScript 
-
-Pending project***
+Minesweeper game in JavaScript ***Pending project***
